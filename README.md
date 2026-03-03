@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome ☀️
 
 Susan Sjoberg is an undergrad at Arizona State University studying Graphic Information Technology and is focusing on polishing their skills in UX/UI Design while expanding their knowledge of front-end.
 
