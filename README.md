@@ -1,5 +1,8 @@
-## Hi there 👋
+# Welcome 👋
 
+Susan Sjoberg is an undergrad at Arizona State University studying Graphic Information Technology and is focusing on polishing their skills in UX/UI Design while expanding their knowledge of front-end.
+
+Outside of school, Susan commits heavily to reading and crafts, such as beading and ceramics.
 <!--
 **suz54/suz54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
